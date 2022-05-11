@@ -407,6 +407,10 @@
             <name>$PROJ_DIR$\Invertor\Exe\Invertor.out</name>
             <outputs>
                 <tool>
+                    <name>OBJCOPY</name>
+                    <file> 128</file>
+                </tool>
+                <tool>
                     <name>ILINK</name>
                     <file> 135</file>
                 </tool>
